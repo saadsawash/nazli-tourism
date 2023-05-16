@@ -1,0 +1,5 @@
+# - [DIRECTORIES] - #
+.vscode/
+
+# - [FILES] - #
+.DS_Store
